@@ -1,0 +1,19 @@
+{
+    "name": "ssleert/environist",
+    "description": "Get environment variables like a maestro.",
+    "type": "library",
+    "license": "BSD 4-Clause License",
+    "autoload": {
+        "psr-4": {
+            "Ssleert\\Environist\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ssleert",
+            "email": "semenilichevsky@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
